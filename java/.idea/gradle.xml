@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/error-handling" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/error-handling" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/hello-world" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/hello-world" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lasagna" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lasagna" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/leap" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/leap" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/nth-prime" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/nth-prime" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pythagorean-triplet" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pythagorean-triplet" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/resistor-color" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/resistor-color" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/rna-transcription" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/rna-transcription" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/simple-linked-list" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/simple-linked-list" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/two-fer" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/two-fer" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
